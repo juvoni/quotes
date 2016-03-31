@@ -45,3 +45,11 @@ List of some my Favorite Quotes
 
 <sup>`- Jim Rohn`</sup>
 
+> "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you." 
+
+<sup>`-Charlie Munger`</sup>
+
+>"We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side."
+
+<sup>`-Charlie Munger`</sup>
+
