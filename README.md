@@ -53,3 +53,6 @@ List of some my Favorite Quotes
 
 <sup>`-Charlie Munger`</sup>
 
+> “Be yourself; everyone else is already taken.” 
+<sup>`- Oscar Wilde`</sup>
+
