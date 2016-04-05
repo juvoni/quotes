@@ -62,9 +62,12 @@ List of some my Favorite Quotes
 <sup>`-Peter F. Drucker`</sup>
 
 > “Knowledge has to be improved, challenged, and increased constantly, or it vanishes” 
+
 <sup>`- Peter F. Drucker`</sup>
 
 > “This defines entrepreneur and entrepreneurship - the entrepreneur always searches for change, responds to it, and exploits it as an opportunity.” 
+
 <sup>`-Peter F. Drucker`</sup>
 
-
+> “People create the reality they need in order to discover themselves” 
+<sup>`- Ernest Becker, The Denial of Death`</sup>
