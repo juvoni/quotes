@@ -71,3 +71,6 @@ List of some my Favorite Quotes
 
 > “People create the reality they need in order to discover themselves” 
 <sup>`- Ernest Becker, The Denial of Death`</sup>
+
+> “Success is stumbling from failure to failure with no loss of enthusiasm.” 
+<sup>`- Winston S. Churchill`</sup>
