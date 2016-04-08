@@ -76,3 +76,7 @@ List of some my Favorite Quotes
 > “Success is stumbling from failure to failure with no loss of enthusiasm.” 
 
 <sup>`- Winston S. Churchill`</sup>
+
+> “The first principle is that you must not fool yourself and you are the easiest person to fool.” 
+
+<sup>`― Richard Feynman`</sup>
