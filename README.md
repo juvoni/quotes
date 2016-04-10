@@ -80,3 +80,15 @@ List of some my Favorite Quotes
 > “The first principle is that you must not fool yourself and you are the easiest person to fool.” 
 
 <sup>`― Richard Feynman`</sup>
+
+> “You have power over your mind - not outside events. Realize this, and you will find strength.” 
+
+<sup>`― Marcus Aurelius, Meditations</sup>
+
+> “Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.” 
+
+<sup>`― Marcus Aurelius, Meditations</sup>
+
+> “If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.” 
+
+<sup>`― Marcus Aurelius, Meditations</sup>
